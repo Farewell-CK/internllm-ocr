@@ -1,3 +1,5 @@
+
+
 # MM-ChatOcr
 
 <!-- PROJECT SHIELDS -->
@@ -104,7 +106,7 @@ git clone https://github.com/8baby8/internllm-ocr.git
 
 ### 部署指南
 
-详见[部署指南](demo/README.md)
+详见[部署指南](docs/Deploy/README.md)
 
 ### 使用到的框架
 
